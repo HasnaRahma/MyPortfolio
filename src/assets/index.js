@@ -40,7 +40,13 @@ import typescript from './tech/typescript.png';
 import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
-
+import csharp from './tech/csharp.png';
+import expressjs from './tech/expressjs.png';
+import java from './tech/java.png';
+import sqlserver from './tech/sqlserver.png';
+import monetdb from './tech/monetdb.png';
+import mongodb from './tech/mongodb.png';
+import oracle from './tech/oracle.png';
 import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
@@ -91,6 +97,13 @@ export {
   rubyrails,
   reactjs,
   redux,
+  csharp,
+  expressjs,
+  java,
+  sqlserver,
+  oracle,
+  mongodb,
+  monetdb,
   tailwind,
   typescript,
   komikult,
