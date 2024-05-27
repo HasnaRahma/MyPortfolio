@@ -40,6 +40,10 @@ const App = () => {
         <div className="relative z-0">
           <Contact />
         </div>
+        <div className="Credits">
+          <a href="https://www.flaticon.com/free-icons/report" title="report icons">Report icons created by Freepik - Flaticon</a>
+          <a href="https://github.com/shaqdeff/Portfolio-Template/tree/90213d4887074d1d29434f706afad3d12fa33f5f" title="template license">Template created by Shaquille Ndunda</a>
+        </div>
       </div>
     </BrowserRouter>
   );

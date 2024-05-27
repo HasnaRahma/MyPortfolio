@@ -7,7 +7,10 @@ import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
 import myPicture from './personal/rahma_picture.png';
-
+import analysis from './icons/analysis.png';
+import conception from './icons/conception.png';
+import data_v_p from './icons/data_v_p.png';
+import agile from './icons/agile.png';
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
@@ -59,6 +62,10 @@ export {
   logotext,
   myPicture,
   backend,
+  analysis,
+  conception,
+  data_v_p,
+  agile,
   ux,
   frontend,
   prototyping,

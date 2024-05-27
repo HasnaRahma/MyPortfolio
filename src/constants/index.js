@@ -1,7 +1,10 @@
 import {
   frontend,
   backend,
-  ux,
+  analysis,
+  conception,
+  data_v_p,
+  agile,
   prototyping,
   javascript,
   typescript,
@@ -46,20 +49,32 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Frontend Development',
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Backend Development',
     icon: backend,
   },
   {
-    title: 'UI/UX Design',
-    icon: ux,
+    title: 'Business Analysis',
+    icon: analysis,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Software Conception',
+    icon: conception,
+  },
+  {
+    title: 'Deployment',
     icon: prototyping,
+  },
+  {
+    title: 'Data vis / Data process',
+    icon: data_v_p,
+  },
+  {
+    title: 'Agile Methodologies',
+    icon: agile,
   },
 ];
 
