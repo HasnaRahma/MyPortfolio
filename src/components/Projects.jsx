@@ -12,7 +12,6 @@ const ProjectCard = ({
   description,
   image,
   repo,
-  demo,
   index,
   active,
   handleClick,
@@ -75,34 +74,6 @@ const ProjectCard = ({
               font-poppins tracking-[1px]">
               {description}
             </p>
-            <button
-              className="live-demo flex justify-between 
-              sm:text-[16px] text-[14px] text-timberWolf 
-              font-bold font-beckman items-center py-5 pl-2 pr-3 
-              whitespace-nowrap gap-1 sm:w-[138px] sm:h-[50px] 
-              w-[125px] h-[46px] rounded-[10px] glassmorphism 
-              sm:mt-[22px] mt-[16px] hover:bg-battleGray 
-              hover:text-eerieBlack transition duration-[0.2s] 
-              ease-in-out"
-              onClick={() => window.open(demo, '_blank')}
-              onMouseOver={() => {
-                document
-                  .querySelector('.btn-icon')
-                  .setAttribute('src', pineappleHover);
-              }}
-              onMouseOut={() => {
-                document
-                  .querySelector('.btn-icon')
-                  .setAttribute('src', pineapple);
-              }}>
-              <img
-                src={pineapple}
-                alt="pineapple"
-                className="btn-icon sm:w-[34px] sm:h-[34px] 
-                  w-[30px] h-[30px] object-contain"
-              />
-              LIVE DEMO
-            </button>
           </div>
         </>
       )}
@@ -124,11 +95,14 @@ const Projects = () => {
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          These projects demonstrate my expertise with practical examples of
-          some of my work, including brief descriptions and links to code
-          repositories and live demos. They showcase my ability to tackle
-          intricate challenges, adapt to various technologies, and efficiently
-          oversee projects.
+            &nbsp;&nbsp;&nbsp; These projects provide clear evidence of my abilities, featuring detailed descriptions
+            and links to code repositories.
+            They illustrate my proficiency in solving complex problems, adapting to various technologies,
+            and successfully managing entire project lifecycles.
+            Through these examples, I demonstrate my expertise in both front-end and back-end development,
+            highlighting my skills in innovation, effective project management, and delivering high-quality, scalable solutions.  <br className="sm:block hidden" />
+            &nbsp;&nbsp;&nbsp; There are instances where I am unable to provide extensive details beyond the title and a brief description.
+            This limitation arises from client confidentiality agreements and company policies.
         </motion.p>
       </div>
 

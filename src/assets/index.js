@@ -52,12 +52,12 @@ import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
+import provis from './projects/provis.png';
+import mydentoapp from './projects/mydentoapp.png';
+import elearning from './projects/elearning.png';
+import yassir from './projects/yassir.png';
+import mobilis from './projects/mobilis.png';
+
 
 export {
   bwmap,
@@ -106,12 +106,11 @@ export {
   monetdb,
   tailwind,
   typescript,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-  space,
+  provis,
+  mydentoapp,
+  elearning,
+  yassir,
+  mobilis,
   coverhunt,
   dcc,
   kelhel,

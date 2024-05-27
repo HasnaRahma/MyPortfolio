@@ -24,11 +24,11 @@ import {
   oracle,
   mongodb,
   monetdb,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
+  provis,
+  mydentoapp,
+  elearning,
+  yassir,
+  mobilis,
   coverhunt,
   dcc,
   kelhel,
@@ -72,7 +72,7 @@ const services = [
     icon: prototyping,
   },
   {
-    title: 'Data vis / Data process',
+    title: 'Data viz / Data process',
     icon: data_v_p,
   },
   {
@@ -190,8 +190,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'PROVIS',
+    description: 'PROVIS is a Data Viz/Processing software that process nanotechnology instruments big mass of data, integrating high-resolution SIMS/SEM images with advanced features and focusing on image calculus, correlative microscopy and clustering.',
     tags: [
       {
         name: 'react',
@@ -202,86 +202,101 @@ const projects = [
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'nodejs',
         color: 'pink-text-gradient',
       },
+      {
+        name: 'expressjs',
+        color: 'orange-text-gradient',
+      },
     ],
-    image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    image: provis,
   },
   {
-    id: 'project-2',
-    name: 'Leaderboard',
+    id: 'project-',
+    name: 'Mobilis phone operator',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+        'This is the main website of the phone operator where I worked in conception & Development of .Net and Java apps of sales and finance',
     tags: [
       {
-        name: 'react',
+        name: 'Java',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'C#',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'ASP',
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    image: mobilis,
+    repo: 'https://mobilis.dz/',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'MyDentoApp',
+    description:
+      'MyDentoApp is a Dental Practice Management desktop Software.In principle, it automates all the functions of a doctor within his practice.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'C#',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: '.Net',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'SQL server',
         color: 'pink-text-gradient',
       },
     ],
-    image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    image: mydentoapp,
+    repo: 'https://github.com/HasnaRahma/MyDentoApp',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'E-learn with VR/AR',
+    description: 'E-learning platform containing the ministerial school program divided into levels and subjects,and it is equipped with courses/exercises based on 3D interaction in VR/AR.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'VR/AR',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'Moodle',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'Html/CSS',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Bootstrap',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Javascript',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'C#',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Unity3D',
         color: 'pink-text-gradient',
       },
     ],
-    image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    image: elearning,
+    repo: 'https://github.com/HasnaRahma/VR-AR_educational_games',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
-    description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+    name: 'Yassir',
+    description: `Your ultimate solution for hassle-free ride-hailing, designed for your convenience and safety, where I worked as a web dev freelancer `,
     tags: [
       {
         name: 'nextjs',
@@ -296,10 +311,10 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    image: yassir,
+    repo: 'https://yassir.com',
   },
+
 ];
 
 export { services, technologies, experiences, projects };
