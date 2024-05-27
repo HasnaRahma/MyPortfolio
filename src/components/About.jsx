@@ -37,12 +37,9 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+          &nbsp;&nbsp;&nbsp; My full name is Hasna Rahma Bedla, and I am a passionate Full Stack Developer with dual Master’s degrees one in Computer Science Engineering from ESI in Algiers and another one in Business Intelligence from the University of Lorraine in France. I have gained valuable experience through roles in companies such as LIST, ATM Mobilis, Rgrid, and CDTA in Luxembourg, France and Algeria. <br className="sm:block hidden" />
+          &nbsp;&nbsp;&nbsp; I am capable of creating complete applications from scratch to deployment, with solid skills in both Front-end and Back-end development. I am proficient in a variety of languages and technologies, including JavaScript, React.js, Node.js/Express.js, Java,C# and deployment techniques such as CI/CD with Docker and Kubernetes. I have worked with different database management systems such as MongoDB, PostgreSQL, MonetDB, Oracle, SQL Server, and MySQL. <br className="sm:block hidden" />
+          &nbsp;&nbsp;&nbsp; Thanks to my expertise in listening to customers' needs, designing interactive user interfaces, implementing complex functionalities, database management, application deployment, and performance optimization, I am able to solve technical problems efficiently and deliver high-quality solutions that satisfy users.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

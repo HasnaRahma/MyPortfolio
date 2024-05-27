@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { shaq, bwmap, worldmap } from '../assets';
+import { myPicture, bwmap, worldmap } from '../assets';
 
 const Hero = () => {
   return (
@@ -42,12 +42,13 @@ const Hero = () => {
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Shaquille
+                Rahma BEDLA
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+              I'm a Full Stack Developer. <br className="sm:block hidden" />
+              Specialized in software conception & development, <br className="sm:block hidden" />
+              But also in Business analysis and reading client's minds.
             </p>
           </div>
           <div
@@ -83,11 +84,11 @@ const Hero = () => {
         {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
         <div>
           <img
-            className="absolute bottom-0 ml-[50vw] 
-            lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[83vw]
+            className="absolute bottom-0 ml-[50vw]
+            lg:ml-[70vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[75vw]
             sm:h-[90vh] md:h-[70vh] xl:h-[80vh]"
-            src={shaq}
-            alt="shaquille"
+            src={myPicture}
+            alt="Rahma"
           />
         </div>
       </section>
