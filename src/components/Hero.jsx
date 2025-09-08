@@ -46,9 +46,9 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              I'm a Full Stack Developer. <br className="sm:block hidden" />
-              Specialized in software conception & development, <br className="sm:block hidden" />
-              But also in Business analysis and reading client's minds.
+              I'm an IT Business Analyst. <br className="sm:block hidden" />
+              Specialized in bridging the gap between business goals and technical solutions using my solid background in software development <br className="sm:block hidden" />
+              , in Business analysis and reading client's minds.
             </p>
           </div>
           <div
