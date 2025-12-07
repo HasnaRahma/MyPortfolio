@@ -95,14 +95,9 @@ const Projects = () => {
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-            &nbsp;&nbsp;&nbsp; These projects provide clear evidence of my abilities, featuring detailed descriptions
-            and links to code repositories.
-            They illustrate my proficiency in solving complex problems, adapting to various technologies,
-            and successfully managing entire project lifecycles.
-            Through these examples, I demonstrate my expertise in both front-end and back-end development,
-            highlighting my skills in innovation, effective project management, and delivering high-quality, scalable solutions.  <br className="sm:block hidden" />
-            &nbsp;&nbsp;&nbsp; There are instances where I am unable to provide extensive details beyond the title and a brief description.
-            This limitation arises from client confidentiality agreements and company policies.
+            &nbsp;&nbsp;&nbsp; These projects showcase my IT Business Analyst expertise combined with a rich development and technical background, along with essential soft skills. They provide clear evidence of my abilities, featuring detailed descriptions and links to code repositories. <br className="sm:block hidden" />
+            &nbsp;&nbsp;&nbsp; They illustrate my proficiency in solving complex problems, adapting to various technologies, and successfully managing entire project lifecycles in Agile methodologies. Through these examples, I demonstrate my expertise in both functional and technical documentation, highlighting my skills in gathering client's needs, effective project management, and delivering high-quality, scalable solutions. <br className="sm:block hidden" />
+            &nbsp;&nbsp;&nbsp; There are instances where I am unable to provide extensive details beyond the title and a brief description. This limitation arises from client confidentiality agreements and company policies.
         </motion.p>
       </div>
 
