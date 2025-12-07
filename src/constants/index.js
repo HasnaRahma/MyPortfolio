@@ -52,24 +52,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Development',
-    icon: frontend,
-  },
-  {
-    title: 'Backend Development',
-    icon: backend,
-  },
-  {
     title: 'Business Analysis',
     icon: analysis,
-  },
-  {
-    title: 'Software Conception',
-    icon: conception,
-  },
-  {
-    title: 'Deployment',
-    icon: prototyping,
   },
   {
     title: 'Data viz / Data process',
@@ -79,6 +63,15 @@ const services = [
     title: 'Agile Methodologies',
     icon: agile,
   },
+  {
+    title: 'Software Conception',
+    icon: conception,
+  },
+  {
+    title: 'Frontend Development',
+    icon: frontend,
+  },
+ 
 ];
 
 const technologies = [
@@ -158,7 +151,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'C# Developer',
+    title: 'Analyst Developer',
     company_name: 'Freelancer',
     icon: coverhunt,
     iconBg: '#333333',
@@ -172,19 +165,33 @@ const experiences = [
     date: 'Sep 2018 - Sep 2019',
   },
   {
-    title: 'Software Engineer | IT Business Analyst',
+    title: 'IT Business Analyst |  Software Engineer ',
     company_name: 'Mobilis',
     icon: kelhel,
     iconBg: '#333333',
     date: 'Jan 2020 - Sep 2020',
   },
   {
-    title: 'Full Stack Developer',
+    title: 'Functional Business Analyst',
     company_name: 'LIST',
     icon: dcc,
     iconBg: '#333333',
     date: 'Apr 2021 - Present',
   },
+  {
+    title: 'Functional Business Analyst',
+    company_name: 'ITS4U',
+    icon: dcc,
+    iconBg: '#333333',
+    date: 'Sept 2024 - Mars 2025',
+  },
+  {
+    title: 'Functional Business Analyst',
+    company_name: 'Nova-IT',
+    icon: dcc,
+    iconBg: '#333333',
+    date: 'Jan 2024 - Present',
+  }
 ];
 
 const projects = [
@@ -216,7 +223,7 @@ const projects = [
     id: 'project-',
     name: 'Mobilis phone operator',
     description:
-        'This is the main website of the phone operator where I worked in conception & Development of .Net and Java apps of sales and finance',
+        'This is the main website of the phone operator where I worked in Functional Analysis, conception and Development of .Net and Java apps of sales and finance',
     tags: [
       {
         name: 'Java',
