@@ -46,9 +46,9 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              I'm an IT Business Analyst specialized in bridging the gap  <br className="sm:block hidden" />
-               between business goals and technical solutions using my solid  <br className="sm:block hidden" />
-               background in software development,in Business analysis and reading client's minds.
+              I'm an IT Business Analyst specialized in bridging the gap between business goals and  <br className="sm:block hidden" />
+               technical solutions using my solid background in software development, <br className="sm:block hidden" />
+               in Business analysis and reading client's minds.
             </p>
           </div>
           <div
