@@ -9,7 +9,7 @@ import { experiences } from '../constants';
 import { SectionWrapper } from '../hoc';
 import { download, downloadHover, resume } from '../assets';
 import { textVariant } from '../utils/motion';
-const resume_path = 'rahma_resume.pdf';
+const resume_path = 'Rahma BEDLA_CV_FunctionalBA_ENG.pdf';
 
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement

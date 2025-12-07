@@ -187,7 +187,7 @@ const experiences = [
   },
   {
     title: 'Functional Business Analyst',
-    company_name: 'Nova-IT',
+    company_name: 'NovaIT',
     icon: dcc,
     iconBg: '#333333',
     date: 'Jan 2024 - Present',

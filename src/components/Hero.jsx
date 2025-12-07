@@ -40,15 +40,15 @@ const Hero = () => {
               Hi, I'm{' '}
               <span
                 className="sm:text-battleGray sm:text-[90px] 
-                text-eerieBlack text-[50px] font-mova
+                text-eerieBlack text-[40px] font-mova
                 font-extrabold uppercase">
                 Rahma BEDLA
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              I'm an IT Business Analyst. <br className="sm:block hidden" />
-              Specialized in bridging the gap between business goals and technical solutions using my solid background in software development <br className="sm:block hidden" />
-              , in Business analysis and reading client's minds.
+              I'm an IT Business Analyst specialized in bridging the gap  <br className="sm:block hidden" />
+               between business goals and technical solutions using my solid  <br className="sm:block hidden" />
+               background in software development,in Business analysis and reading client's minds.
             </p>
           </div>
           <div
