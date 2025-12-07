@@ -35,19 +35,19 @@ const Hero = () => {
           </div>
 
           <div>
-            <h1
+            <h2
               className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase`}>
               Hi, I'm{' '}
               <span
-                className="sm:text-battleGray sm:text-[70px] 
-                text-eerieBlack text-[32px] font-mova
+                className="sm:text-battleGray sm:text-[90px] 
+                text-eerieBlack text-[40px] font-mova
                 font-extrabold uppercase">
                 Rahma BEDLA
               </span>
-            </h1>
+            </h2>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              I'm an IT Business Analyst specialized in bridging the gap between business goals and  <br className="sm:block hidden" />
-               technical solutions using my solid background in software development, <br className="sm:block hidden" />
+              I'm an IT Business Analyst specialized in bridging the gap between business goals and  
+               technical solutions using my solid <br className="sm:block hidden" /> background in software development, <br className="sm:block hidden" />
                in Business analysis and reading client's minds.
             </p>
           </div>
