@@ -3,6 +3,7 @@ import {
   backend,
   analysis,
   processModeling,
+  technicalDocumentation,
   conception,
   data_v_p,
   agile,
@@ -61,7 +62,11 @@ const services = [
     icon: processModeling,
   },
   {
-    title: 'Data viz / Data process',
+    title: 'Functional / Technical Documentation',
+    icon: technicalDocumentation,
+  },
+  {
+    title: 'Data viz / Data processing',
     icon: data_v_p,
   },
   {
