@@ -36,7 +36,7 @@ import api from './tech/api.png';
 import bpmn from './tech/bpmn.png';
 import drawio from './tech/drawio.png';
 import jira from './tech/jira.png';
-import powerBI from './tech/powerBI.png';
+import powerBI from './tech/powerbi.png';
 import docker from './tech/docker.png';
 import figma from './tech/figma.png';
 import git from './tech/git.png';
