@@ -2,6 +2,7 @@ import {
   frontend,
   backend,
   analysis,
+  processModeling,
   conception,
   data_v_p,
   agile,
