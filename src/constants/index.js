@@ -35,6 +35,7 @@ import {
   drawio,
   jira,
   powerBI,
+  excel,
 } from '../assets';
 
 export const navLinks = [
