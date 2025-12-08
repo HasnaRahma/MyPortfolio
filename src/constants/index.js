@@ -197,7 +197,7 @@ const experiences = [
     company_name: 'LIST',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Apr 2021 - Present',
+    date: 'Apr 2021 - Aug 2024',
   },
   {
     title: 'Functional Business Analyst',
