@@ -37,10 +37,10 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-          &nbsp;&nbsp;&nbsp; I’m a versatile IT Business Analyst with 6+ years of experience bridging the gap between business goals and technical solutions — with a solid background in software development. <br className="sm:block hidden" />
-          &nbsp;&nbsp;&nbsp; Having worked hands-on as a Full Stack Developer (React, JavaScript, Node.js, etc.), I bring a strong technical edge to my BA roles. This enables me to collaborate effectively with developers, write clear functional and technical specifications, and ensure delivery aligns with both business needs and system architecture. <br className="sm:block hidden" />
-          &nbsp;&nbsp;&nbsp; 🔍 Currently open to freelance roles and project-based opportunities (remote or on-site in France/Belgium). <br className="sm:block hidden" />
-          &nbsp;&nbsp;&nbsp; 📍 TVA-registered for international or freelance collaborations if needed.
+          &nbsp;&nbsp;&nbsp; I’m an IT Business Analyst with 6+ years of experience turning complex business needs into structured, actionable solutions. I specialise in requirement analysis, process optimisation, and ensuring that functional specifications truly reflect organisational goals. <br className="sm:block hidden" />
+          &nbsp;&nbsp;&nbsp; My earlier career as a software engineer gives me a valuable technical foundation. It allows me to collaborate effectively with development teams, understand system constraints, and ensure that proposed solutions are both realistic and aligned with technical architecture, while keeping business value at the centre. <br className="sm:block hidden" />
+          &nbsp;&nbsp;&nbsp; 🔍 Currently open to freelance/CDI and project-based assignments, either remotely or on-site in France/Belgium. <br className="sm:block hidden" />
+          &nbsp;&nbsp;&nbsp; 📍 TVA-registered and available for international collaborations.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
