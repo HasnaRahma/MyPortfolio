@@ -66,21 +66,27 @@ const services = [
     icon: technicalDocumentation,
   },
   {
-    title: 'Data viz / Data processing',
-    icon: data_v_p,
-  },
-  {
     title: 'Agile Methodologies',
     icon: agile,
   },
   {
+    title: 'Workshops facilitation / training',
+    icon: workshops,
+  },
+  {
+    title: 'Stackeholder management',
+    icon: stakeholder,
+  },
+  {
+    title: 'Data viz / Data processing',
+    icon: data_v_p,
+  },
+ 
+  {
     title: 'Software Conception',
     icon: conception,
   },
-  {
-    title: 'Frontend Development',
-    icon: frontend,
-  },
+ 
  
 ];
 
