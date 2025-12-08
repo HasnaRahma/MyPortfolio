@@ -31,6 +31,12 @@ import send from './icons/send.png';
 import sendHover from './icons/sendHover.png';
 
 import css from './tech/css.png';
+import uml from './tech/uml.png';
+import api from './tech/api.png';
+import bpmn from './tech/bpmn.png';
+import drawio from './tech/drawio.png';
+import jira from './tech/jira.png';
+import powerBI from './tech/powerBI.PNG';
 import docker from './tech/docker.png';
 import figma from './tech/figma.png';
 import git from './tech/git.png';
@@ -94,6 +100,12 @@ export {
   send,
   sendHover,
   css,
+  uml,
+  api,
+  bpmn,
+  drawio,
+  jira,
+  powerBI,
   docker,
   figma,
   git,

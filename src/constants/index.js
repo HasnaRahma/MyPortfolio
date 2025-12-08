@@ -8,21 +8,14 @@ import {
   conception,
   data_v_p,
   agile,
-  prototyping,
   javascript,
-  typescript,
-  html,
   css,
   reactjs,
-  redux,
   nodejs,
   git,
   docker,
   postgresql,
-  graphql,
   csharp,
-  expressjs,
-  java,
   sqlserver,
   oracle,
   mongodb,
@@ -36,6 +29,12 @@ import {
   dcc,
   kelhel,
   microverse,
+  uml,
+  api,
+  bpmn,
+  drawio,
+  jira,
+  powerBI,
 } from '../assets';
 
 export const navLinks = [
@@ -93,33 +92,44 @@ const services = [
 
 const technologies = [
   {
-    name: 'HTML 5',
-    icon: html,
+    name: 'UML',
+    icon: uml,
+  },
+  {
+    name: 'API Design',
+    icon: api,
+  },
+  {
+    name: 'BPMN',
+    icon: bpmn,
+  },
+  {
+    name: 'Draw.io',
+    icon: drawio,
+  },
+  {
+    name: 'Jira',
+    icon: jira,
+  },
+  {
+    name: 'Power BI',
+    icon: powerBI,
   },
   {
     name: 'CSS 3',
     icon: css,
   },
-  {
-    name: 'graphql',
-    icon: graphql,
-  },
+  
   {
     name: 'JavaScript',
     icon: javascript,
   },
-  {
-    name: 'TypeScript',
-    icon: typescript,
-  },
+  
   {
     name: 'React JS',
     icon: reactjs,
   },
-  {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
+  
   {
     name: 'C#',
     icon: csharp,
@@ -127,14 +137,6 @@ const technologies = [
   {
     name: 'Node JS',
     icon: nodejs,
-  },
-  {
-    name: 'Express JS',
-    icon: expressjs,
-  },
-  {
-    name: 'Java',
-    icon: java,
   },
   {
     name: 'postgresql',
