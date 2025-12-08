@@ -9,7 +9,7 @@ import logotext from './logo/logo-text-black.png';
 import myPicture from './personal/rahma_picture.png';
 import analysis from './icons/analysis.png';
 import processModeling from './icons/processModeling.png';
-import workshops from './icons/workshop.png';
+import workshop from './icons/workshop.png';
 import stakeholder from './icons/stakeholder.png';
 import technicalDocumentation from './icons/technicalDoc.png';
 import conception from './icons/conception.png';
@@ -74,7 +74,7 @@ export {
   backend,
   analysis,
   processModeling,
-  workshops,
+  workshop,
   stakeholder,
   technicalDocumentation,
   conception,

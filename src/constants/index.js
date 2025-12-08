@@ -71,7 +71,7 @@ const services = [
   },
   {
     title: 'Workshops facilitation / training',
-    icon: workshops,
+    icon: workshop,
   },
   {
     title: 'Stackeholder management',
