@@ -10,7 +10,7 @@ import myPicture from './personal/rahma_picture.png';
 import analysis from './icons/analysis.png';
 import processModeling from './icons/processModeling.png';
 import workshops from './icons/workshop.png';
-import stakeholder from './icons/stakeholders.png';
+import stakeholder from './icons/stakeholder.png';
 import technicalDocumentation from './icons/technicalDoc.png';
 import conception from './icons/conception.png';
 import data_v_p from './icons/data_v_p.png';
