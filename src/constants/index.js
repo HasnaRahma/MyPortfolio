@@ -96,10 +96,6 @@ const technologies = [
     icon: uml,
   },
   {
-    name: 'API Design',
-    icon: api,
-  },
-  {
     name: 'BPMN',
     icon: bpmn,
   },
@@ -116,20 +112,25 @@ const technologies = [
     icon: powerBI,
   },
   {
+    name: 'Excel',
+    icon: excel,
+  },
+  {
+    name: 'API Design',
+    icon: api,
+  },
+  {
     name: 'CSS 3',
     icon: css,
   },
-  
   {
     name: 'JavaScript',
     icon: javascript,
   },
-  
   {
     name: 'React JS',
     icon: reactjs,
   },
-  
   {
     name: 'C#',
     icon: csharp,
