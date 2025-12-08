@@ -1,9 +1,10 @@
 import {
-  frontend,
-  backend,
+
   analysis,
   processModeling,
   technicalDocumentation,
+  workshop,
+  stakeholder,
   conception,
   data_v_p,
   agile,
