@@ -56,6 +56,10 @@ const services = [
     icon: analysis,
   },
   {
+    title: 'Process Modeling',
+    icon: processModeling,
+  },
+  {
     title: 'Data viz / Data process',
     icon: data_v_p,
   },
